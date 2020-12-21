@@ -1,6 +1,6 @@
 {
   "name": "gs-component-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reusable react component library",
   "main": "lib/index.js",
   "scripts": {
