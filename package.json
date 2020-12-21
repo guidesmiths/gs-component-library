@@ -1,0 +1,25 @@
+{
+  "name": "gs-component-library",
+  "version": "1.0.0",
+  "description": "A reusable react component library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidesmiths/gs-component-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidesmiths/gs-component-library/issues"
+  },
+  "homepage": "https://github.com/guidesmiths/gs-component-library#readme",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
